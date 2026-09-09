@@ -1,0 +1,2 @@
+n_records,mean_distance_mpc,median_distance_mpc,sd_distance_mpc,cv_distance_percent,mean_implied_H0,median_implied_H0,min_implied_H0,max_implied_H0
+10,109.35,104.0,26.123733355790563,23.89001678627395,69.17435705583476,69.17947295423023,49.958333333333336,93.55006501950585
