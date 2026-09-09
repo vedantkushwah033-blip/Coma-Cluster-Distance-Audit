@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use or discuss this project, please cite the project author."
+title: "The Coma Cluster Distance Audit"
+authors:
+  - family-names: Kushwaha
+    given-names: Vedant
+year: 2026
+version: "2.0"
+abstract: "An independent astrophysics data-analysis project investigating how heterogeneous redshift-independent distance measurements affect a cluster-scale Hubble-constant inference for the Coma Cluster."
+keywords:
+  - astrophysics
+  - cosmology
+  - Hubble constant
+  - statistical analysis
+  - distance indicators
+repository-code: "https://github.com/vedantkushwah033-blip/Coma-Cluster-Distance-Audit"
